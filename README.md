@@ -5,4 +5,4 @@ pip install ecdsa
 $ python get_pri_key.py "Your Message"
 
 ### generate a public key from the private key you just created
-$ python get_pub_key.py -u <privatekey>
+$ python get_pub_key.py -u privatekey
